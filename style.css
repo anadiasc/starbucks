@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,500;0,600;0,700;0,800;0,900;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 5% 0px 5%;
+    
+}
+
+header img {
+    max-height: 75px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+nav a {
+    color: black;
+    font-family: 'Mulish', sans-serif;
+}
+
+nav a:hover {
+    color: #017143;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-width: 600px;
+    margin-top: 100px;
+    margin-left: 5%;
+    align-content: center;
+}
+
+h1 {
+    font-size: 3.5em;
+    font-family: 'Mulish', sans-serif;
+    color: #292929;
+    line-height: 1.3em;
+}
+
+h1 strong {
+    color: #017143;
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+.about p {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.2em;
+    color: #292929;
+    padding-top: 15px;
+}
+
+button {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    color: white;
+    height: 50px;
+    width: 138px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: #017143;
+    border: none;
+    box-shadow: 1px 1px 5px #3a3a3a ;
+}
+
+button:hover {
+    background-color: #3c9972;
+}
+
+.imagens {
+    border-radius: 100% 0% 0% 0%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 594px;
+    height: 519px;
+    background-color: #017143;
+
+    /*posicionamento das imagens*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.imagem-principal {
+    width: 342px;
+    height: 518px;
+    align-content: flex-start;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: center;
+    gap: 41px;
+}
+
+.facebook {
+    width: 16px;
+    height: 25px;
+}
+
+.twitter {
+    width: 27px;
+    height: 25px;
+}
+
+.instagram {
+    width: 25px;
+    height: 25px;
+}
