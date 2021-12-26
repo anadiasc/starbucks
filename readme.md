@@ -1,7 +1,13 @@
-# Starbucks's Landing Page
-## Desktop version
+# Página de apresentação para a marca Starbucks
 
-* Para desenvolver esta página, utilizei apenas HTML5 e CSS3 aplicando, no último caso,
-conceitos de *flexbox*. Confira o resultado abaixo, ou acesse: https://anadiasc.github.io/starbucks/
+> ### Características do projeto:
 
-![resultado](/imagens/screenshot.jpg)
+* status: em **desenvolvimento**
+* linguagens utilizadas: **HTML e CSS**
+* É responsivo
+
+#### Confira o resultado, para desktops, abaixo, ou <a href="anadiasc.github.io/starbucks/" target="_blank">CLIQUE AQUI</a>.
+
+![Resultado](imagens/screenshot.jpg)
+
+> <a href="https://morioh.com/p/bda6ce16b5d8" target="_blank">layout de inspiração</a>
