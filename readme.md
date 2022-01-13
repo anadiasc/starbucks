@@ -6,7 +6,7 @@
 * linguagens utilizadas: **HTML e CSS**
 * Possui responsividade
 
-#### Confira o resultado, para desktops, abaixo, ou <a href="https://anadiasc.github.io/starbucks/" target="_blank">CLIQUE AQUI</a>.
+#### Confira o resultado abaixo ou <a href="https://anadiasc.github.io/starbucks/" target="_blank">CLIQUE AQUI</a>.
 
 ![Resultado](imagens/screenshot.jpg)
 
