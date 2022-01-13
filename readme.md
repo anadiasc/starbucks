@@ -4,7 +4,7 @@
 
 * status: em **desenvolvimento**
 * linguagens utilizadas: **HTML e CSS**
-* É responsivo
+* Possui responsividade
 
 #### Confira o resultado, para desktops, abaixo, ou <a href="https://anadiasc.github.io/starbucks/" target="_blank">CLIQUE AQUI</a>.
 
